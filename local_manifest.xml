@@ -3,8 +3,6 @@
  <!-- Remotes -->
     <remote name="zetaxbyte"
             fetch="https://github.com/zetaxbyte"/>
-    <remote name="LineageOS"
-            fetch="https://github.com/LineageOS"/>
  <!--Dt-->
  <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
 
