@@ -3,9 +3,9 @@
  <!-- Remotes -->
  <remote name="zetaxbyte" fetch="git@github.com:"/>
  <!--Dt-->
- <project path="device/realme/r5xQ" name="device_realme_r5xQ" revision="RUI-Q" />
+ <project path="device/realme/r5xQ" name="zetaxbyte/device_realme_r5xQ" revision="RUI-Q" />
  <!--KT-->
- <project path="kernel/realme/r5x" name="kernel_realme_r5x" revision="RUI-fw" />
+ <project path="kernel/realme/r5x" name="zetaxbyte/kernel_realme_r5x" revision="RUI-fw" />
  <!--VT -->
- <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" revision="RUI-Q" />
+ <project path="vendor/realme/r5xQ" name="zetaxbyte/vendor_realme_r5xQ" revision="RUI-Q" />
 </manifest>
