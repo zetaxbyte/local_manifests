@@ -5,8 +5,8 @@
  <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
  <remote name="los" fetch="https://github.com/LineageOS" />
  
- <remove-project name="android_external_chromium-webview_prebuilt_arm64" />
- 
+ <remove-project name="LineageOS/android_external_chromium-webview" />
+
  <!--Dt-->
  <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
 
