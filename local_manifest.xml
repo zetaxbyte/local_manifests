@@ -3,9 +3,6 @@
  
  <!-- Remotes -->
  <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
- <remote name="los" fetch="https://github.com/LineageOS" />
- 
- <remove-project name="LineageOS/android_external_chromium-webview" />
 
  <!--Dt-->
  <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
@@ -16,7 +13,4 @@
  <!--VT -->
  <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
 
- <!-- External Webview -->
- <project path="external/chromium-webview/prebuilt/arm64" name="android_external_chromium-webview_prebuilt_arm64" remote="los" revision="backup/main_20230314" />
-  
 </manifest>
