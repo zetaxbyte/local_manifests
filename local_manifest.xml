@@ -4,6 +4,13 @@
  <!-- Remotes -->
  <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
 
+  <remote name="ancient"
+          fetch="https://github.com/Ancient-Lab"
+          revision="ten" />
+ 
+ <!--remove path-->
+ <remove-project name="vendor_ancient" />
+ 
  <!--Dt-->
  <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
 
@@ -13,4 +20,6 @@
  <!--VT -->
  <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
 
+ <project path="vendor/ancient" name="vendor_ancient" remote="zetaxbyte" revision="ten" />
+ 
 </manifest>
