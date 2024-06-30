@@ -5,7 +5,7 @@
  <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
 
  <!--Dt-->
- <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="RUI-Q" />
+ <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="selinux" />
 
  <!--KT-->
  <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="zetaxbyte" revision="RUI-fw" />
