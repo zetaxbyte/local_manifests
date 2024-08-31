@@ -2,7 +2,7 @@
 <manifest>
  
  <!-- Remotes -->
- <remote name="sudozetaxbyte" fetch="https://github.com/zetaxbyte"/>
+ <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
 
  <!--Dt-->
  <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="Q" />
