@@ -13,4 +13,7 @@
  <!--VT -->
  <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
 
+ <!--VT -->
+ <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="sudozetaxbyte" revision="v4a" />
+
 </manifest>
