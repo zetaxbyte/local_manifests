@@ -2,18 +2,18 @@
 <manifest>
  
  <!-- Remotes -->
- <remote name="zetaxbyte" fetch="https://github.com/zetaxbyte"/>
+ <remote name="sudozetaxbyte" fetch="https://github.com/sudozetaxbyte"/>
 
  <!--Dt-->
- <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="zetaxbyte" revision="Q" />
+ <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
 
  <!--KT-->
- <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="zetaxbyte" revision="RUI-fw" />
+ <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="sudozetaxbyte" revision="RUI-fw" />
   
  <!--VT -->
- <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="zetaxbyte" revision="Q" />
+ <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
 
  <!--VT -->
- <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="zetaxbyte" revision="v4a" />
+ <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="sudozetaxbyte" revision="v4a" />
 
 </manifest>
