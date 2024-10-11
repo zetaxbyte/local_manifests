@@ -10,10 +10,13 @@
  <!--KT-->
  <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="sudozetaxbyte" revision="RUI-fw" />
   
- <!--VT -->
+ <!--VT-->
  <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
 
- <!--VT -->
+ <!--ViPER4AndroidFX-->
  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="sudozetaxbyte" revision="v4a" />
+
+ <!--Sign_build-->
+ <project path="vendor/extra" name="sign_build" remote="sudozetaxbyte" revision="r5xQ" />
 
 </manifest>
