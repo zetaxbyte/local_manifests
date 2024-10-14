@@ -16,4 +16,7 @@
  <!--ViPER4AndroidFX-->
  <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="sudozetaxbyte" revision="v4a" />
 
+<!--Sign_build-->
+ <project path="vendor/extra" name="sign_build" remote="sudozetaxbyte" revision="r5xQ" />
+
 </manifest>
