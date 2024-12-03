@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ 
+ <!-- Remotes -->
+ <remote name="sudozetaxbyte" fetch="https://github.com/sudozetaxbyte"/>
+
+ <!--Dt-->
+ <project path="device/realme/r5xQ" name="device_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
+
+ <!--KT-->
+ <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="sudozetaxbyte" revision="RUI-fw" />
+  
+ <!--VT-->
+ <project path="vendor/realme/r5xQ" name="vendor_realme_r5xQ" remote="sudozetaxbyte" revision="Q" />
+
+ <!--ViPER4AndroidFX-->
+ <project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="sudozetaxbyte" revision="v4a" />
+
+</manifest>
